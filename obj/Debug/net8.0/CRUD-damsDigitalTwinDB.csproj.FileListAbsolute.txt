@@ -98,3 +98,8 @@ C:\Users\prodriguezsa\source\repos\CRUD-damsDigitalTwinDB\obj\Debug\net8.0\refin
 C:\Users\prodriguezsa\source\repos\CRUD-damsDigitalTwinDB\obj\Debug\net8.0\CRUD-damsDigitalTwinDB.pdb
 C:\Users\prodriguezsa\source\repos\CRUD-damsDigitalTwinDB\obj\Debug\net8.0\CRUD-damsDigitalTwinDB.genruntimeconfig.cache
 C:\Users\prodriguezsa\source\repos\CRUD-damsDigitalTwinDB\obj\Debug\net8.0\ref\CRUD-damsDigitalTwinDB.dll
+C:\Users\prodriguezsa\source\repos\CRUD-damsDigitalTwinDB\bin\Debug\net8.0\dotenv.net.dll
+C:\Users\prodriguezsa\source\repos\CRUD-damsDigitalTwinDB\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\prodriguezsa\source\repos\CRUD-damsDigitalTwinDB\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\prodriguezsa\source\repos\CRUD-damsDigitalTwinDB\bin\Debug\net8.0\Sprache.dll
+C:\Users\prodriguezsa\source\repos\CRUD-damsDigitalTwinDB\obj\Debug\net8.0\CRUD-damsDigitalTwinDB.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUD-damsDigitalTwinDB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+064921bbd09b9b4d642d4fb9e8feffd7843e277d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUD-damsDigitalTwinDB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUD-damsDigitalTwinDB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
